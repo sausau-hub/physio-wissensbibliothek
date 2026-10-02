@@ -209,7 +209,7 @@ Neuer Zeitrahmen, neues Werkzeug: KEKS (vier gleichzeitige Blickwinkel) und die 
 'Ein Säugling will nach einem Spielzeug greifen. Dazu gehören nicht nur Fingerbewegungen: Er muss das Objekt sehen, aufmerksam bleiben, den Körper stabilisieren und eine Hand aus der Stütze lösen können.',
 [['Grundlage','Wofür steht KEKS in deinem Handout?','Körperlich, emotional, kognitiv und sensorisch.'],['Transfer','Warum reicht „kann greifen“ als Bewegungsbeschreibung nicht?','Weil Ausgangslage, Kontrolle, Qualität, Zielgerichtetheit und Unterstützungsbedarf fehlen.']],'',
 'Die bisherigen Kapitel behandelten Zustand und Risiken rund um die Geburt selbst. Jetzt wechselt der Zeitrahmen: Dieses Kapitel eröffnet den Blick auf Wochen und Monate danach und liefert das Beobachtungsraster, das die folgenden Entwicklungskapitel konkret anwenden.');
-add('paed','drei-fuenf-monate','3. & 5. Monat: Bauch- und Rückenlage',2,'Vier verstreute Blätter in einer gemeinsamen Vergleichskarte.',[['s13','1'],['s14','1'],['s20','1'],['s21','1']],`
+add('paed','drei-fuenf-monate','3., 5. & 6. Monat: Bauch- und Rückenlage',2,'Sechs Monatsblätter in einer gemeinsamen Vergleichskarte.',[['s13','1'],['s14','1'],['s20','1'],['s21','1']],`
 ### Dritter Monat – Symmetrie aufbauen
 **Rückenlage:** Der Kopf kommt besser zur Mitte, der Rumpf richtet sich symmetrischer aus. Hände orientieren sich zur Körpermitte; Auge-Hand- und Hand-Hand-Koordination werden sichtbar. Beine werden angehoben, Hüft-/Knieflexion und Fußkontakte entstehen.
 
@@ -220,20 +220,27 @@ add('paed','drei-fuenf-monate','3. & 5. Monat: Bauch- und Rückenlage',2,'Vier v
 
 **Rückenlage:** gezielteres Greifen, Überkreuzen der Mittellinie, mehr Beckenaufrichtung und Rollen zur Seite. Die Blätter erwähnen außerdem kräftigere Kopfhebung, Strampeln und Fußkontakte. Diese Beschreibungen sind Kursorientierungen, keine starren Testgrenzen.
 
-### Der rote Faden zwischen den Monaten
-<div class="flow" role="img" aria-label="Fließschema der Bauchlage-Entwicklung vom dritten zum fünften Monat"><div class="flow-step"><strong>3. Monat</strong><small>symmetrischer Unterarmstütz</small></div><span class="flow-arrow" aria-hidden="true">→</span><div class="flow-step"><strong>5. Monat</strong><small>Gewichtsverlagerung auf einen Arm</small></div><span class="flow-arrow" aria-hidden="true">→</span><div class="flow-step"><strong>Hand wird frei</strong><small>für Spielaktivität</small></div></div>
-<p class="flow-note">Ohne die stabile Basis aus dem 3. Monat gäbe es im 5. Monat nichts, von dem sich eine Hand ablösen könnte.</p>
+### Sechster Monat – sicherer Stütz, Drehen, geschickte Hände
+*Quelle: Monatsblätter „6. Lebensmonat“ (Teschler, nach Unterlagen des Bobath-Kindertherapeuten-Kurses), nachgereicht am 29.09.2026.*
 
-### Was fehlt?
-Die Aufgabenliste nennt zusätzlich den **6. Monat**. Ein vergleichbares detailliertes Monatsblatt wurde unter den Uploads nicht gefunden. Deshalb bleibt dieser Punkt sichtbar offen und wird nicht durch erfundene Unterrichtsdetails ersetzt.
+**Bauchlage:** **aktiver Handwurzelstütz mit entfalteten (offenen) Händen**. Der Säugling **greift jetzt von radial** (von der Daumenseite) aus. Die Hüfte ist nur noch minimal gebeugt, die Knie sind beidseits gestreckt oder ein Bein ist gestreckt und eins gebeugt. **Gewichtsverlagerung zur Seite im Handwurzelstütz**, oft mit Bein-Asymmetrie; teils beginnende Beuge-Streck-Phase im Becken.
+→ Der **Körperschwerpunkt liegt auf der Symphyse** (Schambeinfuge). **Gleichgewicht und Haltungskontrolle (postural) sind in Bauchlage ausgeglichen.**
+
+**Rückenlage:** Der **Schwerpunkt wandert weit nach cranial** (Richtung Kopf) auf Höhe der Schulterblätter → er liegt auf dem **Schultergürtel**. Die **Füße sind viel in der Luft und wandern ins Blickfeld**. Der Säugling **dreht sich aus der Rückenlage in die Seitlage**, nach links und rechts, und **dreht sich en bloc von Rücken- in Bauchlage**: als ein Block, eine Rotation zwischen Schultergürtel und Becken ist noch nicht möglich.
+
+**Er kann:** **Daumen-Opposition** · gibt **Spielzeug von einer Hand in die andere** · **widersetzt sich lautstark**, wenn ihm das Spielzeug weggenommen wird · spielt gerne **Verstecken**.
+
+### Der rote Faden zwischen den Monaten
+<div class="flow" role="img" aria-label="Fließschema der Bauchlage-Entwicklung vom dritten über den fünften zum sechsten Monat"><div class="flow-step"><strong>3. Monat</strong><small>symmetrischer Unterarmstütz</small></div><span class="flow-arrow" aria-hidden="true">→</span><div class="flow-step"><strong>5. Monat</strong><small>Gewicht auf einen Arm, beginnender Handwurzelstütz</small></div><span class="flow-arrow" aria-hidden="true">→</span><div class="flow-step"><strong>6. Monat</strong><small>aktiver Handwurzelstütz, offene Hände</small></div></div>
+<p class="flow-note">Der Stütz wandert von Monat zu Monat weiter nach vorne: Unterarm → beginnende Handwurzel → aktive Handwurzel mit offenen Händen. Ohne die stabile Basis aus dem 3. Monat gäbe es im 5. Monat nichts, von dem sich eine Hand ablösen könnte.</p>
 
 ### Was dieses Kapitel zum Werkzeugkasten hinzufügt
 Das Beobachtungsraster aus dem letzten Kapitel wird hier zum ersten Mal befüllt, an zwei festen Alterspunkten. Neu ist der Vergleichsgedanke: nicht „was kann das Kind im 3. Monat" isoliert, sondern **was verändert sich vom 3. zum 5. Monat** – genau dieser Verlaufsblick ist das Werkzeug, das das nächste Kapitel für einzelne automatische Reaktionen wiederverwendet.
 
-<div class="box merke"><div class="box-label">📝 Das schreibst du dir auf</div><p><strong>Ein Satz:</strong> 3. Monat = symmetrischer Unterarmstütz + Mittellinie; 5. Monat = Gewicht auf einen Arm verlagern → andere Hand wird frei.</p><ul><li>3. Monat, Rückenlage: Kopf/Rumpf symmetrischer, Hände zur Mitte.</li><li>3. Monat, Bauchlage: Kopf heben, symmetrischer Unterarmstütz.</li><li>5. Monat, Bauchlage: Gewicht auf einen Unterarm, andere Hand wird frei zum Spielen.</li><li>5. Monat, Rückenlage: gezielt greifen, Mittellinie überkreuzen, zur Seite rollen.</li><li>6. Monat: offene Materiallücke, nicht aus dem Handout ableitbar.</li></ul></div>`,
+<div class="box merke"><div class="box-label">📝 Das schreibst du dir auf</div><p><strong>Ein Satz:</strong> 3. Monat = symmetrischer Unterarmstütz + Mittellinie; 5. Monat = Gewicht auf einen Arm verlagern → andere Hand wird frei; 6. Monat = aktiver Handwurzelstütz, dreht sich en bloc in die Bauchlage, Daumen-Opposition.</p><ul><li>3. Monat, Rückenlage: Kopf/Rumpf symmetrischer, Hände zur Mitte.</li><li>3. Monat, Bauchlage: Kopf heben, symmetrischer Unterarmstütz.</li><li>5. Monat, Bauchlage: Gewicht auf einen Unterarm, andere Hand wird frei zum Spielen.</li><li>5. Monat, Rückenlage: gezielt greifen, Mittellinie überkreuzen, zur Seite rollen.</li><li>6. Monat, Bauchlage: aktiver Handwurzelstütz mit offenen Händen, greift von der Daumenseite, Schwerpunkt auf der Symphyse.</li><li>6. Monat, Rückenlage: Füße ins Blickfeld, dreht sich in die Seitlage und en bloc (als ein Block) in die Bauchlage, Daumen-Opposition, Spielzeug von Hand zu Hand.</li><li>Merkhilfe Stütz: 3 → Unterarm · 5 → beginnende Handwurzel · 6 → aktive Handwurzel mit offenen Händen.</li></ul></div>`,
 'Im dritten Monat steht eine symmetrische Basis im Vordergrund. Im fünften Monat kann Gewichtsverlagerung eine Hand freimachen. Das erklärt, warum Stützen und Greifen zusammenhängen – und warum nur „höherer Kopf“ die Entwicklung nicht ausreichend beschreibt.',
 [['Grundlage','Welcher Stütz ist im Blatt zum dritten Monat wichtig?','Der symmetrische Unterarmstütz in Bauchlage.'],['Transfer','Warum hilft Gewichtsverlagerung beim Greifen in Bauchlage?','Sie ermöglicht, eine Hand aus der Stützfunktion zu lösen, während die andere Seite trägt.']],
-'Materiallücke: Der 6. Monat ist als Prüfungsbereich genannt, aber nicht in gleicher Tiefe dokumentiert. Die gleich benannten Dateien aus zwei Ordnern enthalten unterschiedliche Monate und wurden deshalb getrennt zugeordnet.',
+'Der 6. Monat wurde am 29.09.2026 als eigenes Monatsblatt nachgereicht (liegt bisher in Google Drive, noch nicht im Quellenordner). Die gleich benannten Dateien aus zwei Ordnern enthalten unterschiedliche Monate und wurden deshalb getrennt zugeordnet.',
 'Das Beobachtungsraster aus dem letzten Kapitel wird hier zum ersten Mal an zwei konkreten Zeitpunkten angewendet: 3. und 5. Monat zeigen, wie sich Kopfkontrolle, Stütz und Greifen schrittweise verändern.');
 add('paed','reaktionen','Placing, Greifreaktion & Galant',2,'Immer Auslöser → Antwort → zeitliche Einordnung lernen.',[['s29','1–8']],`
 ### Drei ausdrücklich genannte Prüfungsreaktionen
