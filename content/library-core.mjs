@@ -194,7 +194,7 @@ Der Reflexbogen ist keine neue Grunderfindung – er ist eine Anwendung von zwei
 [['Grundlage','Was ist der Rezeptor beim klassischen Muskeldehnungsreflex?','Die Muskelspindel.'],['Knifflig','Ist beim monosynaptischen Eigenreflex jede beteiligte Verschaltung monosynaptisch?','Nein. Die direkte erregende Ia-α-Verbindung ist monosynaptisch; zusätzliche Schaltungen wie die reziproke Hemmung nicht.']],
 'Korrektur gegenüber der vermischten Darstellung in den Folien. Abgleich: Purves, Neuroscience, „The Stretch Reflex“, https://www.ncbi.nlm.nih.gov/books/NBK10809/ .',
 'Dieses Kapitel eröffnet Neurophysiologie mit dem einfachsten vollständigen Schaltkreis: dem Reflexbogen (Rezeptor → afferent → Verschaltung → efferent → Effektor). Diese fünf Stationen und die Unterscheidung Eigen-/Fremdreflex sind das Grundmuster, das in jedem folgenden Kapitel wiederkehrt, sobald ein Reiz verarbeitet wird.');
-add('neurophysiologie','kennreflexe','Kennmuskeln & klinische Reflexe',2,'Segment, Bewegung und Reflex gemeinsam abrufen.',[['s09','9–13'],['s09','17']],`
+add('neurophysiologie','kennreflexe','Kennmuskeln & klinische Reflexe',1,'Segment, Bewegung und Reflex gemeinsam abrufen.',[['s09','9–13'],['s09','17']],`
 ### Vier sichere Anker aus deinem Skript
 | Reflex | Muskel/Antwort | Segmentanker im Kurs |
 |---|---|---|
@@ -221,7 +221,7 @@ Die Tabelle unterscheidet A-, B- und C-Fasern. Große myelinisierte Fasern leite
 'Beim Treppensteigen muss das Knie stabil strecken. Ordne die Funktion dem Quadrizeps zu, dann dem N. femoralis und schließlich den Segmentankern. So wird die Reflexliste zu einer Funktionskarte.',
 [['Grundlage','Welcher Reflex passt zur Plantarflexion?','Der Achillessehnenreflex mit dem Triceps surae.'],['Transfer','Warum beweist ein schwacher Quadrizeps allein keine bestimmte Wurzelläsion?','Mehrere Wurzeln, der periphere Nerv, Muskel und weitere Faktoren können beteiligt sein; zusätzliche Befunde sind nötig.']],'',
 'Im letzten Kapitel hast du den Reflexbogen an der Muskelspindel kennengelernt. Jetzt bekommen die dort beteiligten Ia-Afferenzen ein klinisches Gesicht: feste Reflexe mit Segmentanker, an denen sich im Rahmen einer Untersuchung ein Rückenmarksegment prüfen lässt. Die hier eingeführten Faserklassen A/B/C brauchst du in den nächsten beiden Kapiteln wieder.');
-add('neurophysiologie','beruehrung','Mechanorezeptoren: Was wird wahrgenommen?',1,'Druck, Bewegung, Dehnung und Vibration getrennt betrachten.',[['s01','2–7']],`
+add('neurophysiologie','beruehrung','Mechanorezeptoren: Was wird wahrgenommen?',2,'Druck, Bewegung, Dehnung und Vibration getrennt betrachten.',[['s01','2–7']],`
 ### Vom mechanischen Reiz zum Signal
 Verformung der Haut beeinflusst spezialisierte Rezeptoren. Daraus entsteht ein elektrisches Signal in der afferenten Bahn. Ein Rezeptor kann bestimmte Reize besonders gut abbilden; das bedeutet nicht, dass er ein kleines fertiges Bild des Gegenstands sendet.
 
